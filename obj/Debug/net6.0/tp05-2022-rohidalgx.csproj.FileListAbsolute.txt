@@ -1,0 +1,15 @@
+C:\taller_repo\tp05-2022-rohidalgx\bin\Debug\net6.0\tp05-2022-rohidalgx.exe
+C:\taller_repo\tp05-2022-rohidalgx\bin\Debug\net6.0\tp05-2022-rohidalgx.deps.json
+C:\taller_repo\tp05-2022-rohidalgx\bin\Debug\net6.0\tp05-2022-rohidalgx.runtimeconfig.json
+C:\taller_repo\tp05-2022-rohidalgx\bin\Debug\net6.0\tp05-2022-rohidalgx.dll
+C:\taller_repo\tp05-2022-rohidalgx\bin\Debug\net6.0\tp05-2022-rohidalgx.pdb
+C:\taller_repo\tp05-2022-rohidalgx\obj\Debug\net6.0\tp05-2022-rohidalgx.csproj.AssemblyReference.cache
+C:\taller_repo\tp05-2022-rohidalgx\obj\Debug\net6.0\tp05-2022-rohidalgx.GeneratedMSBuildEditorConfig.editorconfig
+C:\taller_repo\tp05-2022-rohidalgx\obj\Debug\net6.0\tp05-2022-rohidalgx.AssemblyInfoInputs.cache
+C:\taller_repo\tp05-2022-rohidalgx\obj\Debug\net6.0\tp05-2022-rohidalgx.AssemblyInfo.cs
+C:\taller_repo\tp05-2022-rohidalgx\obj\Debug\net6.0\tp05-2022-rohidalgx.csproj.CoreCompileInputs.cache
+C:\taller_repo\tp05-2022-rohidalgx\obj\Debug\net6.0\tp05-2022-rohidalgx.dll
+C:\taller_repo\tp05-2022-rohidalgx\obj\Debug\net6.0\refint\tp05-2022-rohidalgx.dll
+C:\taller_repo\tp05-2022-rohidalgx\obj\Debug\net6.0\tp05-2022-rohidalgx.pdb
+C:\taller_repo\tp05-2022-rohidalgx\obj\Debug\net6.0\tp05-2022-rohidalgx.genruntimeconfig.cache
+C:\taller_repo\tp05-2022-rohidalgx\obj\Debug\net6.0\ref\tp05-2022-rohidalgx.dll
