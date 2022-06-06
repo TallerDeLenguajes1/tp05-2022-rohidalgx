@@ -33,3 +33,14 @@ tp05-2022-rohidalgx created by GitHub Classroom
 ¿Qué sucede cuando utiliza el carácter @ y $ antes de una cadena de texto?
 
 El @ de prefijo significa que la cadena no usará secuencias de escape. El $ de prefijo significa que la cadena usara cadenas interpoladas
+
+
+Ejercicio 5
+¿Funcionan únicamente en C#?
+No
+
+¿En qué casos le parecen útiles? Enuncie al menos 3.
+Para controlar números, correos electrónicos, o cualquier expresión
+
+¿Cómo se hace uso de estas en C#?
+Con la clase que ya trae C#
